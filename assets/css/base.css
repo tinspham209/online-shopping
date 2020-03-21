@@ -189,8 +189,6 @@ html {
   z-index: 1;
 }
 
-.select-input__item {
-}
 
 .select-input__link {
   text-decoration: none;
@@ -238,6 +236,3 @@ html {
 }
 
 
-.pagination-item__icon{
-
-}
