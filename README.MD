@@ -2,7 +2,8 @@
 ## Date: 19 - Mar - 2020
 
 ### Functions
-Build a Responsive Website with Animations
+- Study HTML & CSS & Responsive
+- Build a Responsive Website for mobile, tablet, medium screen, large screen
 
 ### Template
 http://shopee.vn/
@@ -59,6 +60,7 @@ http://shopee.vn/
 Study HTML & CSS
 - Layout HTML with flex-box
 - Use media queries to make responsive
+- className with BEM
 
 ### Directory Structure
 ```
